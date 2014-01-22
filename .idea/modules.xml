@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JBClient/JBClient.iml" filepath="$PROJECT_DIR$/JBClient/JBClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JBClientProject.iml" filepath="$PROJECT_DIR$/JBClientProject.iml" />
+    </modules>
+  </component>
+</project>
+
